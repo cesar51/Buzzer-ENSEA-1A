@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "R-78K1.5-0.5")(type "KiCad")(uri "/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/composants/R-78K1.5-0.5 173950336/R-78K1.5-0.5.kicad_sym")(options "")(descr ""))
+  (lib (name "TJA1050T_CM_118")(type "KiCad")(uri "/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/composants/TJA1050T_CM_118/TJA1050T_CM_118.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/composants/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+)

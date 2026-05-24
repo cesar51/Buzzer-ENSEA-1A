@@ -1,0 +1,13 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-F_Cu.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-B_Cu.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-F_Paste.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-B_Paste.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-F_Silkscreen.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-B_Silkscreen.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-F_Mask.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-B_Mask.gbr'.
+Plotted to '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-Edge_Cuts.gbr'.
+Created Gerber job file '/home/quiquila/Documents/ENSEA/Cours_ENSEA_1A/S6/ProjetS6/aBuzzerProjet/BuzzerKicad/KICAD_Buzzer/KICAD_Buzzer_main/KICAD_Buzzer-job.gbrjob'.
+Info: Done.
+Info: Done.
